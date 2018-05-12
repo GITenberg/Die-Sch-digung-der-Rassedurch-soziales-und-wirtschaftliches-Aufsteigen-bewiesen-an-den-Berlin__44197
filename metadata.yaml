@@ -1,0 +1,29 @@
+_repo: Die-Sch-digung-der-Rassedurch-soziales-und-wirtschaftliches-Aufsteigen-bewiesen-an-den-Berlin__44197
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44197-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Theilhaber, Felix A. (Felix Aaron)
+    alias: Theilhaber-Berlin, Felix A.
+    birthdate: 1884
+    gutenberg_agent_id: '41579'
+    url: http://www.gutenberg.org/2009/agents/41579
+description: ''
+gutenberg_issued: '2013-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44197'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Acculturation -- Case studies'
+- !lcsh 'Jews -- Germany -- Berlin -- Economic conditions -- History'
+- !lcc 'DS'
+title: 'Die Schädigung der Rasse
+
+  durch soziales und wirtschaftliches Aufsteigen bewiesen an den Berliner Juden'
+url: http://www.gutenberg.org/ebooks/44197
